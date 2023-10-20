@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -p 5566"
+    "start": "http-server -p 5566",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
